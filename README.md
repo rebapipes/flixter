@@ -1,24 +1,45 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flixter is a two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-Things you may want to cover:
+![](flixter_drone.png)
+![](flixter_gopro.png)
+![](flixter_home.png)
+![](flixter_learnmore.png)
+![](flixter_lessons.png)
+![](flixter_stripe.png)
 
-* Ruby version
 
-* System dependencies
+## Getting Started
 
-* Configuration
+Built using Ruby on Rails and JavaScript
 
-* Database creation
+## Deployment
 
-* Database initialization
+Deployed using Heroku (https://www.heroku.com)
 
-* How to run the test suite
+## Testing
 
-* Services (job queues, cache servers, search engines, etc.)
+Please use Heroku link for testing and viewing purposes (see below)
 
-* Deployment instructions
+## Built With
 
-* ...
+* Ruby on Rails
+* JavaScript
+* Stripe API
+
+## Meta
+
+Reba Pipes
+
+Email: pipes.reba@gmail.com
+
+LinkedIn: (https://linkedin.com/in/rebapipes)
+
+GitHub: (https://github.com/rebapipes/flixter)
+
+Heroku: (https://flixter-reba-pipes.herokuapp.com)
+
+Portfolio: (https://rebapipes.netlify.com)
+
+Medium Blog: (https://medium.com/@rebapipes) 
