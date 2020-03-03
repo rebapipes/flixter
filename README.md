@@ -57,6 +57,7 @@ Deployed using Heroku (https://www.heroku.com)
 * Ruby on Rails
 * JavaScript
 * Stripe API
+* Amazon Web Services API (AWS/S3)
 
 ## Features
 
@@ -65,6 +66,7 @@ Deployed using Heroku (https://www.heroku.com)
 * Course enrollment and student dashboard
 * Administrative dashboard
 * Payments with Stripe API
+* Amazon Web Services API (AWS/S3)
 
 ## Meta
 
