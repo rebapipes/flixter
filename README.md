@@ -38,6 +38,7 @@ Stripe API integration
 
 * Rails v. 5.0.0
 * Ruby v. 2.6.3
+* JavaScript
 * PostgreSQL
 * HTML
 * CSS/SCSS
